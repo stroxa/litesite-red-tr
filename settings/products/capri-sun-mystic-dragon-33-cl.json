@@ -1,0 +1,22 @@
+{
+  "id": "i6",
+  "name": "Capri-Sun Mystic Dragon (33 cl)",
+  "url": "capri-sun-mystic-dragon-33-cl",
+  "images": ["capri-sun-mystic-dragon-33-cl.webp"],
+  "price": 50,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Capri-Sun Mystic Dragon, pratik poşet ambalajı ile sunulan paketli bir içecektir. Soğuk olarak servis edilir.",
+  "metaDesc": "33 cl Capri-Sun Mystic Dragon, paketli ve soğuk servis edilen meyve aromalı içecektir.",
+  "keywords": "capri sun, capri sun mystic dragon, paketli içecek, meyve aromalı içecek, soğuk içecek, hazır içecek",
+  "longDesc": [
+    "33 cl paketli içecek.",
+    "Egzotik meyve aromalı.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

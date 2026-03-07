@@ -1,0 +1,22 @@
+{
+  "id": "i8",
+  "name": "Doğanay Şalgam Suyu (33 cl)",
+  "url": "salgam-suyu-33-cl",
+  "images": ["salgam-suyu-33-cl.webp"],
+  "price": 50,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Doğanay Şalgam Suyu, 33 cl şişe ambalajında sunulan geleneksel fermente bir içecektir. Soğuk olarak servis edilir.",
+  "metaDesc": "33 cl Doğanay Şalgam Suyu, paketli ve soğuk servis edilen fermente içecektir.",
+  "keywords": "şalgam suyu, şalgam, doğanay şalgam, geleneksel içecek, fermente içecek, soğuk içecek",
+  "longDesc": [
+    "33 cl şişe ambalaj.",
+    "Fermente geleneksel içecek.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

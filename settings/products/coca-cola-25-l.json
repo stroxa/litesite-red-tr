@@ -1,0 +1,22 @@
+{
+  "id": "i2",
+  "name": "Coca-Cola (2,5 L)",
+  "url": "coca-cola-25-l",
+  "images": ["coca-cola-25-l.webp"],
+  "price": 219,
+  "weight": { "value": 2500, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Coca-Cola, 2,5 litre pet şişe ambalajında sunulan aile boyu gazlı içecektir. Kalabalık sofralar ve paylaşımlar için idealdir. Soğuk servis edilmesi tavsiye edilir.",
+  "metaDesc": "2,5 litre Coca-Cola, pet şişe ambalajlı ve paketli gazlı içecektir.",
+  "keywords": "coca cola, kola, büyük kola, aile boyu kola, gazlı içecek, meşrubat, paketli içecek",
+  "longDesc": [
+    "2,5 litre pet şişe ambalaj.",
+    "Gazlı içecektir.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "2500 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

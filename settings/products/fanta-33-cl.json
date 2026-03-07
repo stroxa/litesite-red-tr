@@ -1,0 +1,22 @@
+{
+  "id": "i3",
+  "name": "Fanta (33 cl)",
+  "url": "fanta-33-cl",
+  "images": ["fanta-33-cl.webp"],
+  "price": 68,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Fanta, 33 cl kutu ambalajında sunulan paketli bir portakallı gazlı içecektir. Soğuk olarak servis edilir ve yemeklerin yanında sıkça tercih edilir.",
+  "metaDesc": "33 cl Fanta, kutu ambalajlı ve soğuk servis edilen portakallı gazlı içecektir.",
+  "keywords": "fanta, portakallı gazlı içecek, gazlı içecek, soğuk içecek, meşrubat, paketli içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Portakallı gazlı içecektir.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

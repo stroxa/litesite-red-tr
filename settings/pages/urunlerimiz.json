@@ -1,0 +1,24 @@
+{
+  "title": "Menümüz | Burgerci",
+  "description": "El yapımı burgerler, taze malzemeler ve eşsiz soslarla hazırlanan Burgerci menüsünü keşfedin. Her burger, günlük taze hazırlanır.",
+  "keywords": "burger menüsü, el yapımı burger, taze burger, burgerci, ekmek arası, içecekler",
+  "showOnHeaderMenu": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "product-cards", "article-footer"],
+  "parts": [
+    {
+      "title": "El Yapımı Burgerler",
+      "content": [
+        "Burgerci'de her burger, günlük taze hazırlanan malzemelerle el yapımı olarak üretilir.",
+        "Özel soslarımız ve seçkin et karışımımızla hazırladığımız burgerler, damağınızda unutulmaz bir lezzet bırakır."
+      ]
+    },
+    {
+      "title": "Sipariş Ver",
+      "content": [
+        "WhatsApp üzerinden kolayca sipariş verebilirsiniz.",
+        "Yakın çevredeki siparişlerde teslimat ücretsizdir."
+      ]
+    }
+  ]
+}

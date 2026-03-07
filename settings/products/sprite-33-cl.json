@@ -1,0 +1,22 @@
+{
+  "id": "i4",
+  "name": "Sprite (33 cl)",
+  "url": "sprite-33-cl",
+  "images": ["sprite-33-cl.webp"],
+  "price": 75,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Sprite, 33 cl kutu ambalajında sunulan paketli bir limon aromalı gazlı içecektir. Soğuk olarak servis edilir ve sıkça tercih edilir.",
+  "metaDesc": "33 cl Sprite, kutu ambalajlı ve soğuk servis edilen limon aromalı gazlı içecektir.",
+  "keywords": "sprite, limonlu gazlı içecek, gazlı içecek, soğuk içecek, meşrubat, paketli içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Limon aromalı gazlı içecektir.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

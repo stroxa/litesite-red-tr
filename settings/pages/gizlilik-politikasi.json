@@ -1,0 +1,40 @@
+{
+  "title": "Gizlilik Politikası | Burgerci",
+  "description": "Burgerci web sitesi hiçbir kişisel veri toplamaz veya saklamaz. Gizlilik politikamız hakkında bilgi edinin.",
+  "keywords": "gizlilik politikası, kişisel veri koruma, burgerci gizlilik",
+  "showOnFooter": true,
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Gizlilik Politikası",
+      "content": [
+        "Bu web sitesi hiçbir kişisel veri toplamaz.",
+        "Bu sitede çerez (cookie), takip sistemi veya analiz aracı kullanılmaz. Ziyaretçiler hakkında hiçbir veri toplanmaz ya da saklanmaz."
+      ]
+    },
+    {
+      "title": "Veri Saklanmıyor",
+      "content": [
+        "Sunucumuzda ya da herhangi bir sistemde kullanıcılara ait hiçbir veri tutulmamaktadır.",
+        "Sipariş süreci yalnızca WhatsApp üzerinden yürütülmektedir. WhatsApp üzerinden paylaşılan bilgiler yalnızca siparişin teslimi amacıyla kullanılır ve üçüncü taraflarla paylaşılmaz."
+      ]
+    },
+    {
+      "title": "Kişisel Veriler Kullanılmıyor",
+      "content": [
+        "Herhangi bir kişisel veri reklam, analiz veya pazarlama amacıyla kullanılmamaktadır."
+      ]
+    },
+    {
+      "title": "İletişim",
+      "content": [
+        "Gizlilik politikamız hakkında sorularınız için bize ulaşabilirsiniz:"
+      ],
+      "list": [
+        "E-posta: siparis@burgerci.com",
+        "Telefon: +90 212 000 00 00",
+        "Adres: Adres Satırı 1, İstanbul"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b1",
+  "name": "Hamburger",
+  "url": "hamburger",
+  "images": ["hamburger.webp"],
+  "price": 365,
+  "weight": { "value": 300, "unit": "g" },
+  "category": { "name": "Burgerler", "url": "burgerler" },
+  "shortDesc": "Klasik Amerikan lezzetinin en saf hali, özel karışım dana etinden hazırlanan burger köftemizle sunulur. Taze domates, çıtır marul ve kornişon turşu yumuşak burger ekmeğinde buluşur. Altın sarısı patates kızartması ile servis edilir.",
+  "metaDesc": "Özel burger köftesi, taze domates, marul ve turşu ile hazırlanır; patates kızartması eşliğinde servis edilir.",
+  "keywords": "hamburger, klasik burger, dana burger, et burger, ızgara burger",
+  "longDesc": [
+    "Dana kıyma ile köfte hazırlanır.",
+    "Taze sebzeler ile hazırlanır.",
+    "Yumuşak burger ekmeği ile servis edilir.",
+    "Patates kızartması dahildir.",
+    "Köfte ızgarada istenilen kıvamda pişirilir.",
+    "Ekmek hafif ısıtılır.",
+    "Taze malzemelerle birleştirilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "300 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "8", "bestRating": "5", "worstRating": "1" }
+}

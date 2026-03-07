@@ -1,0 +1,22 @@
+{
+  "id": "i10",
+  "name": "Su (50 cl)",
+  "url": "su-50-cl",
+  "images": ["su-50-cl.webp"],
+  "price": 25,
+  "weight": { "value": 500, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Su, 50 cl pet şişe ambalajında sunulan paketli bir içme suyudur. Soğuk olarak servis edilir.",
+  "metaDesc": "50 cl pet şişe su, paketli ve soğuk servis edilen içme suyudur.",
+  "keywords": "su, içme suyu, pet şişe su, doğal su, soğuk içecek",
+  "longDesc": [
+    "50 cl pet şişe ambalaj.",
+    "Saf içme suyu.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "500 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

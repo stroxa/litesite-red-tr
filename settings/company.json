@@ -1,0 +1,32 @@
+{
+  "name": "Burgerci",
+  "legalName": "Burgerci Gıda ve Yemek Hizmetleri",
+  "address": [
+    "Adres Satırı 1",
+    "İlçe İstanbul"
+  ],
+  "map": "#",
+  "phone": "+90 212 000 00 00",
+  "email": "siparis@burgerci.com",
+  "instagram": "#",
+  "facebook": "#",
+  "linkedin": "#",
+  "whatsapp": "+90 532 000 00 00",
+  "slogan": "El yapımı burgerler, taze malzemeler, gerçek lezzet.",
+  "description": "Burgerci, günlük taze kasap etinden hazırlanan el yapımı burgerleri ve içecekleri sizinle buluşturuyor.",
+
+  "currency": "TRY",
+  "currencySymbol": "₺",
+  "priceValidUntilDays": 30,
+
+  "brand": "Burgerci",
+
+  "manufacturer": {
+    "name": "Burgerci Gıda ve Yemek Hizmetleri",
+    "identifier": "TR34-0003",
+    "phone": "+902120000000",
+    "address": "Adres Satırı 1",
+    "city": "İstanbul",
+    "country": "TR"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "i9",
+  "name": "Ayran (30 cl)",
+  "url": "ayran-30-cl",
+  "images": ["ayran-30-cl.webp"],
+  "price": 55,
+  "weight": { "value": 300, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Ayran, 30 cl ambalajında sunulan geleneksel bir yoğurt içeceğidir. Soğuk olarak servis edilir.",
+  "metaDesc": "30 cl ayran, paketli ve soğuk servis edilen yoğurt bazlı içecektir.",
+  "keywords": "ayran, yoğurt içeceği, geleneksel içecek, türk içeceği, soğuk içecek",
+  "longDesc": [
+    "30 cl ambalaj.",
+    "Yoğurt bazlı geleneksel içecek.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "300 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

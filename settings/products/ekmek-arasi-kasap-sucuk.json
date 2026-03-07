@@ -1,0 +1,24 @@
+{
+  "id": "e3",
+  "name": "Ekmek Arası Kasap Sucuk",
+  "url": "ekmek-arasi-kasap-sucuk",
+  "images": ["ekmek-arasi-kasap-sucuk.webp"],
+  "price": 355,
+  "weight": { "value": 280, "unit": "g" },
+  "category": { "name": "Ekmek Arası", "url": "ekmek-arasi" },
+  "shortDesc": "Kaliteli kasap sucuğumuz ızgarada kızartılarak taze sebzelerle buluşur. Domates, soğan, yeşillik ve turşu ile özel ekmeğin arasında sunulur. Sucuğun yoğun aroması ile unutulmaz bir lezzet deneyimi.",
+  "metaDesc": "Izgara kasap sucuk, domates, soğan, yeşillik ve turşu eşliğinde ekmek arasında servis edilir.",
+  "keywords": "ekmek arası sucuk, sucuk sandviç, kasap sucuk, ızgara sucuk, pişmiş sucuk",
+  "longDesc": [
+    "Kaliteli kasap sucuğu kullanılır.",
+    "Günlük taze sebzeler ile hazırlanır.",
+    "Sucuğun doğal yağı ile pişirilir.",
+    "Sucuk sipariş anında ızgarada pişirilir.",
+    "Her iki tarafı çıtır olana kadar kızartılır.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "280 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

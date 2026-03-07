@@ -1,0 +1,119 @@
+{
+  "title": "Mesafeli Satış Sözleşmesi | Burgerci",
+  "description": "Burgerci mesafeli satış sözleşmesi. Alışverişiniz sırasında haklarınızı ve sorumluluklarımızı açıklayan yasal belge.",
+  "keywords": "mesafeli satış sözleşmesi, burgerci yasal bilgiler, tüketici hakları",
+  "showOnFooter": true,
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "1. Taraflar",
+      "content": [
+        "İşbu Mesafeli Satış Sözleşmesi (\"Sözleşme\"), aşağıdaki SATICI ile burgerci.com sitesi üzerinden sipariş veren ALICI arasında, 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili yönetmelikler çerçevesinde kurulmuştur."
+      ],
+      "list": [
+        "Satıcı Unvanı: Burgerci Gıda ve Yemek Hizmetleri",
+        "Adres: Adres Satırı 1, İstanbul",
+        "Telefon: +90 212 000 00 00",
+        "E-posta: siparis@burgerci.com"
+      ]
+    },
+    {
+      "title": "",
+      "content": [
+        "Alıcı: burgerci.com üzerinden \"WhatsApp ile Sipariş Ver\" butonunu kullanarak sipariş ileten tüketici."
+      ]
+    },
+    {
+      "title": "2. Tanımlar",
+      "list": [
+        "KANUN: 6502 sayılı Tüketicinin Korunması Hakkında Kanun",
+        "YÖNETMELİK: Mesafeli Sözleşmelere Dair Yönetmelik",
+        "ÜRÜN: burgerci.com üzerinden satışı yapılan gıda ürünleri",
+        "SATICI: Yukarıda bilgileri yer alan şirket",
+        "ALICI: Ürünü satın alan gerçek veya tüzel kişi"
+      ]
+    },
+    {
+      "title": "3. Sözleşmenin Konusu",
+      "content": [
+        "Bu Sözleşme; ALICI'nın burgerci.com internet sitesi üzerinden WhatsApp hattı aracılığıyla verdiği siparişlere ilişkin satış, teslimat, ödeme ve cayma koşullarını düzenler."
+      ]
+    },
+    {
+      "title": "4. Ürün Bilgileri",
+      "content": [
+        "Siparişe konu ürün/ürünlerin türü, miktarı ve fiyatı sipariş sırasında web sitesinde ve/veya WhatsApp üzerinden ALICI'ya açıkça bildirilir.",
+        "Tüm fiyatlar KDV dahil olup, sipariş onayından önce ALICI tarafından görüntülenmiş ve onaylanmıştır."
+      ]
+    },
+    {
+      "title": "5. Sipariş ve Sözleşmenin Kurulması",
+      "content": [
+        "ALICI, burgerci.com üzerindeki \"WhatsApp ile Sipariş Ver\" butonuna basarak SATICI'nın WhatsApp hattına yönlendirilir.",
+        "SATICI, siparişi mesaj yoluyla teyit ettiğinde sözleşme kurulmuş sayılır."
+      ]
+    },
+    {
+      "title": "6. Fiyat ve Ödeme",
+      "content": [
+        "Ödeme, aşağıdaki yöntemlerden biriyle yapılır:"
+      ],
+      "list": [
+        "Kapıda ödeme: Teslimat anında nakit veya kartla",
+        "Banka havalesi/EFT: Sipariş onayından sonra SATICI tarafından bildirilen IBAN'a"
+      ]
+    },
+    {
+      "title": "7. Teslimat",
+      "content": [
+        "Siparişler, ALICI'nın bildirdiği adrese en geç 30 gün içinde teslim edilir.",
+        "Teslimat, kendi kuryemiz veya anlaşmalı kargo firması aracılığıyla gerçekleştirilir.",
+        "Kargo/teslimat ücreti, varsa sipariş sırasında ALICI'ya bildirilir."
+      ]
+    },
+    {
+      "title": "8. Cayma Hakkı",
+      "content": [
+        "ALICI, teslimden itibaren 14 gün içinde cayma hakkını kullanabilir.",
+        "Cayma bildirimi yazılı olarak (e-posta veya WhatsApp) SATICI'ya iletilmelidir."
+      ]
+    },
+    {
+      "title": "9. Cayma Hakkının Kullanılamayacağı Ürünler",
+      "content": [
+        "6502 sayılı Kanun'un 15. maddesi gereği aşağıdaki ürünlerde cayma hakkı kullanılamaz:"
+      ],
+      "list": [
+        "Sipariş üzerine taze hazırlanan ve çabuk bozulan gıda ürünleri",
+        "Ambalajı açılmış, hijyen ve sağlık açısından iade edilmesi uygun olmayan ürünler"
+      ]
+    },
+    {
+      "title": "10. Genel Hükümler",
+      "list": [
+        "ALICI, sipariş vermeden önce ürün bilgileri, fiyat ve teslimat koşulları hakkında önceden bilgilendirilmiştir.",
+        "Ödeme yapılmaz veya havale teyit edilmezse SATICI'nın teslimat yükümlülüğü başlamaz.",
+        "SATICI, stok veya tedarik yetersizliği durumunda siparişi iptal edebilir; bu durumda ALICI bilgilendirilir."
+      ]
+    },
+    {
+      "title": "11. Kişisel Verilerin Korunması",
+      "content": [
+        "Sipariş sırasında iletilen ad, adres, telefon gibi kişisel veriler yalnızca teslimat ve iletişim amacıyla kullanılır.",
+        "Detaylı bilgi için Gizlilik Politikamızı inceleyebilirsiniz."
+      ]
+    },
+    {
+      "title": "12. Uyuşmazlık ve Yetkili Merciler",
+      "content": [
+        "Bu Sözleşme'den doğan uyuşmazlıklarda ALICI'nın yerleşim yerindeki Tüketici Hakem Heyetleri veya Tüketici Mahkemeleri yetkilidir."
+      ]
+    },
+    {
+      "title": "13. Yürürlük",
+      "content": [
+        "ALICI, burgerci.com üzerinden verdiği sipariş ile bu Sözleşme'nin tüm koşullarını okuduğunu, anladığını ve kabul ettiğini beyan eder."
+      ]
+    }
+  ]
+}

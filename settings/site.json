@@ -1,0 +1,68 @@
+{
+  "domain": "https://burgerci.com",
+  "cachePrefix": "burgerci",
+  "lang": "tr",
+  "langSwitch": [
+    { "label": "TR", "url": "https://burgerci.com", "lang": "tr" }
+  ],
+  "rootPages": ["index", "404"],
+  "pagesDir": "pages",
+  "productsDir": "products",
+  "isCategoryCollapsable": true,
+  "productSections": [
+    { "key": "burgerler",  "label": "Burgerler"   },
+    { "key": "ekmek-arasi", "label": "Ekmek Arası" },
+    { "key": "icecekler",  "label": "İçecekler"   }
+  ],
+
+  "offlineWarning": "İnternet'e erişilemiyor, lütfen bağlantınızı kontrol ediniz.",
+  "taxIncluded": "KDV Dahil",
+  "basketWarning": "Ürünlerinizi sepete ekledikten sonra,<br/>'WhatsApp'tan Siparişini İlet' butonuna tıklayarak<br/>siparişinizi ve adres bilgilerinizi tarafımıza iletebilir,<br/>alışverişinizi kolayca tamamlayabilirsiniz.",
+  "whatsAppWarning": "WhatsApp kullanmıyorsanız,<br/>sipariş ve sorularınız için bize siparis@burgerci.com adresimizden ulaşabilirsiniz.",
+  "shippingWarning": "Yakın çevredeki siparişlerde teslimat ücretsizdir.",
+
+  "headerHero": {
+    "img": "hero-header.webp",
+    "text": [
+      "Hergün taze el yapımı burgerler",
+      ""
+    ]
+  },
+
+  "assets": {
+    "css": ["css/base.css", "css/layout.css",
+            "css/page.css", "css/product.css", "css/basket.css"],
+    "js": ["js/lazy.js", "js/off.js", "js/menu.js", "js/helper.js", "js/basket.js"],
+    "cssOutput": "site.css",
+    "jsOutput": "site.js"
+  },
+
+  "labels": {
+    "pages": "Sayfalar",
+    "products": "Menü",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "showOnMap": "Haritada Göster",
+    "productDescTab": "Açıklama",
+    "productSpecsTab": "Özellikler",
+    "addToBasket": "Sepete Ekle",
+    "emptyBasket": "Sepetinizde henüz ürün yok",
+    "productsLinkText": "Menümüz",
+    "emptyBasketDesc": "sayfasını ziyaret ederek beğendiğiniz ürünleri sepetinize ekleyebilirsiniz.",
+    "basket": "Sepet",
+    "myBasket": "Sepetim",
+    "itemSuffix": "ürün",
+    "for": "için",
+    "openBasket": "Sepeti Aç",
+    "closeBasket": "Sepeti Kapat",
+    "subtotal": "Ara Toplam",
+    "shipping": "Teslimat",
+    "freeShipping": "Ücretsiz",
+    "total": "Toplam",
+    "delete": "Sil",
+    "unit": "Adet",
+    "whatsAppOrder": "WhatsApp'tan Siparişini İlet",
+    "whatsAppGreeting": "Merhaba, sipariş vermek istiyorum:"
+  }
+}

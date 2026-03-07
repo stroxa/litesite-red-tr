@@ -1,0 +1,20 @@
+{
+  "title": "404 - Sayfa Bulunamadı | Burgerci",
+  "description": "Aradığınız sayfa bulunamadı. Lütfen ana sayfamıza dönerek gezinmeye devam edin.",
+  "keywords": "sayfa bulunamadı, 404",
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Sayfa Bulunamadı",
+      "content": [
+        "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+        "Belki açsınız ve menüyü aramaya çalışıyorsunuz?"
+      ],
+      "list": [
+        "Ana sayfaya dönün",
+        "Menümüze göz atın",
+        "Bize ulaşın"
+      ]
+    }
+  ]
+}

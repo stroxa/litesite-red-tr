@@ -1,0 +1,7 @@
+{
+  "title": "Burgerci | El Yapımı Burgerler",
+  "description": "Burgerci, günlük taze kasap etinden hazırlanan el yapımı burgerleri, ekmek arası ürünleri ve içecekleri kapınıza kadar ulaştırıyor.",
+  "keywords": "burgerci, hamburger, el yapımı burger, cheeseburger, tavuk burger, ekmek arası",
+  "priority": 1.0,
+  "partials": ["hero:headerHero", "product-cards"]
+}

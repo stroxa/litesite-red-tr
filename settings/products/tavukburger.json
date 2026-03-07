@@ -1,0 +1,25 @@
+{
+  "id": "b2",
+  "name": "Tavukburger",
+  "url": "tavukburger",
+  "images": ["tavukburger.webp"],
+  "price": 345,
+  "weight": { "value": 280, "unit": "g" },
+  "category": { "name": "Burgerler", "url": "burgerler" },
+  "shortDesc": "Hafif ve lezzetli bir alternatif arayanlar için tavuk burgerimiz, ızgarada pişirilmiş tavuk bonfile içerir. Taze yeşillikler, domates, soğan ve turşu ile yumuşak burger ekmeğinde sunulur. Beyaz et severlerin tercihi.",
+  "metaDesc": "Izgara tavuk, yeşillik, domates, soğan ve turşu ile hazırlanan burger.",
+  "keywords": "tavuk burger, ızgara burger, tavuklu sandviç, ızgara tavuk burger, el yapımı burger",
+  "longDesc": [
+    "Izgara tavuk bonfile kullanılır.",
+    "Taze sebzeler ile hazırlanır.",
+    "Yumuşak burger ekmeği ile servis edilir.",
+    "Daha hafif bir burger alternatifi sunar.",
+    "Tavuk ızgarada sulu kalacak şekilde pişirilir.",
+    "Ekmek hafif ısıtılır.",
+    "Taze malzemelerle birleştirilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "280 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

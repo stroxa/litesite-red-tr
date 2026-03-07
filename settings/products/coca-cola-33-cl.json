@@ -1,0 +1,22 @@
+{
+  "id": "i1",
+  "name": "Coca-Cola (33 cl)",
+  "url": "coca-cola-33-cl",
+  "images": ["coca-cola-33-cl.webp"],
+  "price": 85,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Coca-Cola, 33 cl kutu ambalajında sunulan paketli bir gazlı içecektir. Soğuk olarak servis edilir ve yemeklerin yanında sıkça tercih edilir.",
+  "metaDesc": "33 cl Coca-Cola, kutu ambalajlı ve soğuk servis edilen gazlı içecektir.",
+  "keywords": "coca cola, kola, gazlı içecek, soğuk içecek, meşrubat, paketli içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Gazlı içecektir.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

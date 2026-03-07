@@ -1,0 +1,24 @@
+{
+  "id": "e1",
+  "name": "Ekmek Arası Izgara Tavuk",
+  "url": "ekmek-arasi-izgara-tavuk",
+  "images": ["ekmek-arasi-izgara-tavuk.webp"],
+  "price": 330,
+  "weight": { "value": 250, "unit": "g" },
+  "category": { "name": "Ekmek Arası", "url": "ekmek-arasi" },
+  "shortDesc": "Taze pişirilmiş ızgara tavuk bonfile, çıtır soğan ve domates ile özel ekmeğin arasında sunulur. Kornişon turşu ile lezzet dengesine ulaşır. Pratik ve doyurucu bir öğün arayanlar için mükemmel.",
+  "metaDesc": "Izgara tavuk bonfile, taze soğan, domates ve turşu ile ekmek arasında servis edilir.",
+  "keywords": "ekmek arası tavuk, tavuk sandviç, ızgara tavuk ekmek, sokak lezzeti, pratik öğün",
+  "longDesc": [
+    "Taze ızgara tavuk bonfile kullanılır.",
+    "Günlük taze sebzeler ile hazırlanır.",
+    "Pratik ve doyurucu bir öğün sunar.",
+    "Tavuk sipariş anında ızgarada pişirilir.",
+    "Sebzeler taze doğranır.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "250 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

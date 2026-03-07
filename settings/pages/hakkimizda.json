@@ -1,0 +1,40 @@
+{
+  "title": "Hakkımızda | Burgerci",
+  "description": "Burgerci olarak el yapımı burgerlerimizle her gün taze ve lezzetli yemekler sunuyoruz. Hikayemizi ve felsefemizi keşfedin.",
+  "keywords": "burgerci hakkında, el yapımı burger, burger hikayesi, taze malzeme, yerel burger",
+  "showOnHeaderMenu": true,
+  "priority": 0.7,
+  "partials": ["article-header", "page-image", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Biz Kimiz",
+      "content": [
+        "Burgerci, kaliteli malzeme ve el yapımı ustalığını bir araya getirerek burger severlere eşsiz bir lezzet deneyimi sunmak amacıyla kuruldu.",
+        "Her gün taze hazırlanan burgerlerimizle sofralarınıza lezzet ve kaliteyi taşıyoruz."
+      ]
+    },
+    {
+      "title": "Felsefemiz",
+      "content": [
+        "Taze, doğal ve kaliteli malzeme kullanımına inanıyoruz.",
+        "Her burgeri el yapımı olarak hazırlıyor, endüstriyel üretimden uzak duruyoruz.",
+        "Lezzetten taviz vermeden sağlıklı ve doyurucu yemekler sunmak temel ilkemizdir."
+      ]
+    },
+    {
+      "title": "Menümüz",
+      "content": [
+        "Klasik ve özel burgerlerin yanı sıra ekmek arası seçeneklerimiz ve serinletici içeceklerimizle zengin bir menü sunuyoruz.",
+        "Tüm ürünlerimiz günlük taze olarak hazırlanır."
+      ]
+    },
+    {
+      "title": "Sipariş",
+      "content": [
+        "WhatsApp üzerinden kolayca sipariş verebilirsiniz.",
+        "Yakın çevredeki siparişlerde teslimat ücretsizdir.",
+        "Soru ve görüşleriniz için siparis@burgerci.com adresimizden bize ulaşabilirsiniz."
+      ]
+    }
+  ]
+}

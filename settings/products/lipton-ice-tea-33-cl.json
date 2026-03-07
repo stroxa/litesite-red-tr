@@ -1,0 +1,22 @@
+{
+  "id": "i5",
+  "name": "Lipton Ice Tea (33 cl)",
+  "url": "lipton-ice-tea-33-cl",
+  "images": ["lipton-ice-tea-33-cl.webp"],
+  "price": 85,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "İçecekler", "url": "icecekler" },
+  "shortDesc": "Lipton Ice Tea, 33 cl kutu ambalajında sunulan şeftali aromalı soğuk çaydır. Gerçek çay yapraklarından üretilir, ferahlatıcı tadı ile özellikle sıcak günlerde tercih edilir.",
+  "metaDesc": "33 cl Lipton Ice Tea, kutu ambalajlı ve soğuk servis edilen paketli içecektir.",
+  "keywords": "lipton ice tea, soğuk çay, buzlu çay, şeftalili ice tea, paketli içecek",
+  "longDesc": [
+    "33 cl kutu ambalaj.",
+    "Meyve aromalı soğuk çay.",
+    "Hazır ve paketli üründür.",
+    "Soğuk olarak tüketiniz."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "330 ml", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

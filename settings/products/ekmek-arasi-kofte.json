@@ -1,0 +1,24 @@
+{
+  "id": "e2",
+  "name": "Ekmek Arası Köfte",
+  "url": "ekmek-arasi-kofte",
+  "images": ["ekmek-arasi-kofte.webp"],
+  "price": 365,
+  "weight": { "value": 350, "unit": "g" },
+  "category": { "name": "Ekmek Arası", "url": "ekmek-arasi" },
+  "shortDesc": "Günlük taze kasap etinden hazırlanan 200 gr köftemiz ızgarada mükemmel pişirilir. Taze domates, soğan, yeşillik ve turşu ile bütün ekmeğin arasında sunulur. Geleneksel sokak lezzetinin en güzel hali.",
+  "metaDesc": "200 gr kasap köfte; domates, soğan, yeşillik ve turşu ile bütün ekmek arasında servis edilir.",
+  "keywords": "ekmek arası köfte, köfte sandviç, kasap köfte ekmek, sokak köftesi, geleneksel lezzet",
+  "longDesc": [
+    "200 gr taze kasap köftesi kullanılır.",
+    "Günlük taze sebzeler ile hazırlanır.",
+    "Doyurucu ve lezzetli bir öğün sunar.",
+    "Köfte sipariş anında ızgarada pişirilir.",
+    "Sebzeler taze doğranır.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "350 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

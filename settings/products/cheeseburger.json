@@ -1,0 +1,25 @@
+{
+  "id": "b3",
+  "name": "Cheeseburger",
+  "url": "cheeseburger",
+  "images": ["cheeseburger.webp"],
+  "price": 375,
+  "weight": { "value": 320, "unit": "g" },
+  "category": { "name": "Burgerler", "url": "burgerler" },
+  "shortDesc": "Burger klasiği cheeseburger, özel dana köftemizin üzerine eritilmiş burger peyniriyle sunulur. Taze sebzeler ile yumuşak burger ekmeğinde birleşir. Burger tutkunlarının vazgeçilmez tercihi.",
+  "metaDesc": "Dana burger köftesi, burger peyniri ve taze sebzeler ile hazırlanır.",
+  "keywords": "cheeseburger, peynirli burger, dana cheeseburger, cheddar burger, klasik burger",
+  "longDesc": [
+    "Dana burger köftesi kullanılır.",
+    "Özel burger peyniri eritilir.",
+    "Taze sebzeler ile hazırlanır.",
+    "Yumuşak burger ekmeği ile servis edilir.",
+    "Köfte ızgarada pişirilir.",
+    "Peynir köfte üzerinde eritilir.",
+    "Sıcak servis edilir."
+  ],
+  "otherDesc": [
+    { "name": "Net Miktar", "value": "320 g", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "7", "bestRating": "5", "worstRating": "1" }
+}
