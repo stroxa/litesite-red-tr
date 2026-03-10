@@ -63,6 +63,8 @@
     "delete": "Sil",
     "unit": "Adet",
     "whatsAppOrder": "WhatsApp'tan Siparişini İlet",
-    "whatsAppGreeting": "Merhaba, sipariş vermek istiyorum:"
+    "whatsAppGreeting": "Merhaba, sipariş vermek istiyorum:",
+    "telegramOrder": "Telegram'dan Siparişini İlet",
+    "telegramGreeting": "Merhaba, sipariş vermek istiyorum:"
   }
 }

@@ -48,7 +48,7 @@ function parseBr(text, parent) {
 
 function fmt(n) { return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "."); }
 
-function empty(el) { while (el.firstChild) { el.removeChild(el.firstChild); } }
+function empty(el) { el.replaceChildren(); }
 
 function actionImg(src, title, action, id, cls) {
   let e = img(src, title, cls);

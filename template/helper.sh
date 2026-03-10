@@ -3,7 +3,7 @@
 
 # --- Minifier ---
 min() {
-  sed 's/^ *//; s/ *$//; /^$/d; s/  */ /g' "$1"
+  sed 's|/\*[^*]*\*\+\([^/][^*]*\*\+\)*/||g; s/^ *//; s/ *$//; /^$/d; s/  */ /g' "$1"
 }
 
 # --- JSON Helpers ---
@@ -41,6 +41,25 @@ json_nested_array() {
     | sed -n 's/.*"'"$3"'"[[:space:]]*:[[:space:]]*\[\([^]]*\)\].*/\1/p' \
     | tr ',' '\n' \
     | sed -n 's/.*"\([^"]*\)".*/\1/p'
+}
+
+# --- Address Reader ---
+# Reads "address" JSON array from a file, joins lines with a separator
+# Usage: read_address "file.json" "<br>" → lines joined with <br>
+#        read_address "file.json" ", "  → lines joined with comma
+read_address() {
+  local file="$1" sep="$2" in_addr=0 result="" first=1
+  while IFS= read -r line; do
+    [[ "$line" == *'"address"'* ]] && { in_addr=1; continue; }
+    [ $in_addr -eq 0 ] && continue
+    [[ "$line" == *']'* ]] && break
+    local v=$(echo "$line" | sed -n 's/^[[:space:]]*"\(.*\)"[[:space:],]*$/\1/p')
+    if [ -n "$v" ]; then
+      [ $first -eq 0 ] && result+="$sep"
+      result+="$v"; first=0
+    fi
+  done < "$file"
+  printf '%s' "$result"
 }
 
 # --- Utility ---

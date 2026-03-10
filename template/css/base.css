@@ -3,15 +3,17 @@
   --surface: #9e0000;
   --surface2: #b30000;
   --accent:  #ff1a1a;
-  --accent2: #ff4444;
+  --accent2: #9e0000;
   --text:    #ffffff;
   --muted:   #ffaaaa;
   --border:  #000000;
+  --border-dark: #000000;
   --white:   #fff;
   --shadow:  rgba(0,0,0,.4);
+  --accent-rgb: 255, 26, 26;
 
   --font-serif: Georgia, 'Times New Roman', serif;
-  --font-sans:  system-ui, -apple-system, sans-serif;
+  --font-sans:  sans-serif;
 
   --r-sm: 6px;
   --r-md: 10px;
@@ -116,4 +118,8 @@ main > :not(.hero):not(.page-img) {
   color: var(--white);
   font-weight: bold;
   font-size: 0.9rem;
+}
+
+.off.show {
+  visibility: visible;
 }

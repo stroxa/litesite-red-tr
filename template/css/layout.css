@@ -8,8 +8,8 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 1rem 2.5rem;
-  background: #9e0000;
-  border-bottom: 2px solid #000000;
+  background: var(--accent2);
+  border-bottom: 2px solid var(--border-dark);
   box-shadow: 0 2px 12px var(--shadow);
 }
 
@@ -30,7 +30,7 @@ header img {
   font-family: var(--font-serif);
   font-size: 2.5rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--white);
   letter-spacing: 0.02em;
 }
 
@@ -58,20 +58,20 @@ nav a {
 
 
 nav a:hover {
-  color: #fff;
+  color: var(--white);
   background: rgba(255,255,255,0.15);
 }
 
 nav a.active {
-  color: #fff;
+  color: var(--white);
   background: rgba(255,255,255,0.22);
 }
 
 /* ── Footer ─────────────────────────────────── */
 footer {
   padding: 3rem 1.5rem 2rem;
-  background: #9e0000;
-  border-top: 2px solid #000000;
+  background: var(--accent2);
+  border-top: 2px solid var(--border-dark);
 }
 
 footer > img {
@@ -182,7 +182,13 @@ footer menu a img {
 @media (max-width: 600px) {
   .footer-contact {
     flex-direction: column;
+    align-items: center;
     gap: 1.1rem;
+  }
+
+  .footer-contact > * {
+    width: 100%;
+    max-width: 300px;
   }
 
   .footer-contact > * + * {
@@ -233,13 +239,13 @@ footer > .lang b {
 }
 
 footer > .lang b {
-  color: #fff;
+  color: var(--white);
   text-decoration: underline;
   text-underline-offset: 0.25rem;
 }
 
 footer > .lang a:hover {
-  color: #fff;
+  color: var(--white);
   background: rgba(255,255,255,0.15);
 }
 
