@@ -192,6 +192,8 @@ ul.prd button {
 .tab-nav {
   display: flex;
   border-bottom: 2px solid var(--border);
+  background: rgba(0,0,0,.15);
+  border-radius: var(--r-md) var(--r-md) 0 0;
 }
 
 .tab-nav label {
